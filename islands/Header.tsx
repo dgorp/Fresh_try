@@ -1,5 +1,5 @@
 /** @jsx h */
-import { h, link } from "preact";
+import { h } from "preact";
 import { tw } from "@twind";
 
 export default function Header() {
